@@ -1,6 +1,11 @@
 # INTEMAC Vision.Bootcamp – A Workshop on the Fundamentals of Machine Vision
 
-Vision.Bootcamp is a two-day intensive workshop designed to introduce participants to the fundamentals of machine vision and AI-based object detection techniques. Organized by INTEMAC, this workshop is specifically tailored for small and medium-sized enterprises (SMEs) looking to enhance their manufacturing processes through industrial vision technologies.
+Vision.Bootcamp is a two-day intensive workshop that introduces participants to the fundamentals of machine vision and AI-based object detection techniques. Organized by INTEMAC, this workshop is specifically tailored for small and medium-sized enterprises (SMEs) aiming to enhance their manufacturing processes through industrial vision technologies. Supported by EU funding through the European Digital Innovation Hub (EDIH), the workshop provides SMEs with access to cutting-edge knowledge and practical experience at no cost.
+
+The workshop is designed for:
+
+- Engineers, developers, and technical specialists responsible for automation, machine vision, and AI solutions in industrial environments.
+- Industry professionals seeking hands-on experience with vision technologies and AI-based object detection.
 
 ## Vision Bootcamp - Day 1: Introduction to Machine Vision and Camera Systems
 
