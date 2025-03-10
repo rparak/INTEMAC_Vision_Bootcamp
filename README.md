@@ -10,6 +10,12 @@ The first day of the **Vision Bootcamp** focuses on the fundamentals of **machin
   <img src="https://github.com/rparak/INTEMAC_Vision_Bootcamp//blob/main/images/Image_Rule_Based.png?raw=true" width="640" height="480">
 </p>
 
+### Description of the Practical App.
+
+The aim of this practical application is to integrate an object detection method into a specific part of the code to detect objects in images captured by the Basler camera, either by connecting to a live camera or by loading an image from a file. Using object detection techniques, we will identify and highlight the INTEMAC logo in the captured image through approaches such as contour detection, shape analysis, or template matching.
+
+Participants are encouraged to choose the object detection technique based on the prior demonstration and their own knowledge.
+
 ## Vision Bootcamp - Day 2: Object Detection Using AI Techniques
 
 The second day of the **Vision Bootcamp** delves into modern approaches to **object detection** using **artificial intelligence (AI)** techniques. Participants will gain a deeper understanding of how machine learning algorithms, such as deep learning and convolutional neural networks (CNNs), can be applied to specific machine vision tasks. Practical examples will demonstrate how these technologies enable efficient and accurate object detection in real-world scenarios.
@@ -17,6 +23,10 @@ The second day of the **Vision Bootcamp** delves into modern approaches to **obj
 <p align="center">
   <img src="https://github.com/rparak/INTEMAC_Vision_Bootcamp//blob/main/images/Image_AI.png?raw=true" width="640" height="480">
 </p>
+
+### Description of the Practical App.
+
+The aim of this practical application is to integrate an object detection method into a specific part of the code to identify objects in images captured by the Basler camera, by connecting to a live camera or by loading an image from a file. The YOLO detection model will be used to detect and highlight the INTEMAC logo in the captured image, ensuring accurate and efficient identification.
 
 ## Contact Info:
 Roman.Parak@outlook.com or parak@intemac.cz
