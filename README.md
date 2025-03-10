@@ -28,6 +28,12 @@ The second day of the **Vision Bootcamp** delves into modern approaches to **obj
 
 The aim of this practical application is to integrate an object detection method into a specific part of the code to identify objects in images captured by the Basler camera, by connecting to a live camera or by loading an image from a file. The YOLO detection model will be used to detect and highlight the INTEMAC logo in the captured image, ensuring accurate and efficient identification.
 
+## Technical Requirements
+
+- The code used in the workshop is written in Python, specifically within Jupyter Notebooks.
+- All necessary libraries can be installed using Miniconda.
+- Installation scripts are provided: **install.bat for Windows** and **install.sh for macOS/Linux**.
+
 ## Contact Info:
 Roman.Parak@outlook.com or parak@intemac.cz
 
