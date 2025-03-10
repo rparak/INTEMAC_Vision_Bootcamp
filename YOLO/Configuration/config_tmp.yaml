@@ -1,0 +1,8 @@
+names:
+- INTEMAC_Logo_Yellow
+- INTEMAC_Logo_Blue
+nc: 2
+path: c:\projects\Vision-Bootcamp\Data\Stand_1\Dataset_v1
+test: images/test
+train: images/train
+val: images/valid
