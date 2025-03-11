@@ -35,7 +35,7 @@ The aim of this practical application is to integrate an object detection method
 - Installation scripts are provided: **install.bat for Windows** and **install.sh for macOS/Linux**.
 
 ## Contact Info:
-Roman.Parak@outlook.com or parak@intemac.cz
+Roman.Parak@outlook.com
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
