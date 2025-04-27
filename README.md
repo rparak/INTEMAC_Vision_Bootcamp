@@ -34,7 +34,7 @@ The aim of this practical application is to integrate an object detection method
 - All necessary libraries can be installed using Miniconda.
 - Installation scripts are provided: **install.bat for Windows** and **install.sh for macOS/Linux**.
 
-## Contact Info:
+## Contact Info
 Roman.Parak@outlook.com
 
 ## License
