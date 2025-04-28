@@ -36,11 +36,10 @@ The aim of this practical application is to integrate an object detection method
 
 ## Contact Info
 Roman Parak: [parak@intemac.cz](mailto:parak@intemac.cz)
-Roman Parak: [parak@intemac.cz](mailto:parak@intemac.cz)
-Roman Parak: [parak@intemac.cz](mailto:parak@intemac.cz)
-marek@intemac.cz
 
-moravansky@intemac.cz
+Lukas Moravansky: [moravansky@intemac.cz](mailto:moravansky@intemac.cz)
+
+Vojtech Marek: [marek@intemac.cz](mailto:marek@intemac.cz)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
