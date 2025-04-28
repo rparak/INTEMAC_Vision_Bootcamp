@@ -35,8 +35,9 @@ The aim of this practical application is to integrate an object detection method
 - Installation scripts are provided: **install.bat for Windows** and **install.sh for macOS/Linux**.
 
 ## Contact Info
-parak@intemac.cz
-
+Roman Parak: [parak@intemac.cz](mailto:parak@intemac.cz)
+Roman Parak: [parak@intemac.cz](mailto:parak@intemac.cz)
+Roman Parak: [parak@intemac.cz](mailto:parak@intemac.cz)
 marek@intemac.cz
 
 moravansky@intemac.cz
