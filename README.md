@@ -37,5 +37,9 @@ The aim of this practical application is to integrate an object detection method
 ## Contact Info
 parak@intemac.cz
 
+marek@intemac.cz
+
+moravansky@intemac.cz
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
