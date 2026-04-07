@@ -35,11 +35,11 @@ The aim of this practical application is to integrate an object detection method
 - Installation scripts are provided: **install.bat for Windows** and **install.sh for macOS/Linux**.
 
 ## Contact Info
-Roman Parak: [parak@intemac.cz](mailto:parak@intemac.cz)
+Roman Parak: [parak@jic.cz](mailto:parak@jic.cz)
 
-Lukas Moravansky: [moravansky@intemac.cz](mailto:moravansky@intemac.cz)
+Lukas Moravansky: [moravansky@jic.cz](mailto:moravansky@jic.cz)
 
-Vojtech Marek: [marek@intemac.cz](mailto:marek@intemac.cz)
+Vojtech Marek: [marek@jic.cz](mailto:marek@jic.cz)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
